@@ -1,0 +1,11 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\bin\Debug\CRUDequipo.exe.config
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\bin\Debug\CRUDequipo.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\bin\Debug\CRUDequipo.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.FrmAlta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDequipo-main\obj\Debug\CRUDequipo.pdb
